@@ -1,4 +1,4 @@
-.Alumno1{
+.Alumno4{
     border: 1px solid black;
     width: 200px; 
     height: 200px;
@@ -17,7 +17,7 @@
     align-items: center; 
   }
 
-  .Alumno2{
+  .Alumno5{
     border: 1px solid black;
     width: 200px; 
     height: 200px;
@@ -25,10 +25,10 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-     
+    
   }
 
-  .Alumno3{
+  .Alumno6{
     border: 1px solid black;
     width: 200px; 
     height: 200px;
