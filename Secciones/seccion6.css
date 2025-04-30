@@ -1,0 +1,8 @@
+.Seccion6{
+    flex: 1;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+}
