@@ -9,6 +9,11 @@
     height: 100vh;
   }
 
+.Separacion{
+  height: 4px;
+  background-color: black;
+}
 
-
-  
+.parte2{
+  text-align: justify;
+}
